@@ -1,4 +1,5 @@
 # MoviesAPI
-- A basic CRUD operations in ASP.NET Core WebAPI
+- A basic CRUD Operations in ASP.NET Core API
 ## Tools:
+- ASP.NET Core API
 - AutoMapper
